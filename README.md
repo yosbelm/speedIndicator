@@ -4,13 +4,13 @@ Este proyecto incluye tres scripts en bash (`speed.sh`, `test.sh` y `open_termin
 
 ## Requisitos
 
-- **CommandRunner**: Applet necesario para configurar los comandos de monitorización.
+- **CommandRunner**: Applet necesario para configurar los comandos de monitorización. Puedes encontrar el applet en GitHub [aquí](https://github.com/linuxmint/cinnamon-spices-applets/tree/master/CommandRunner%40appdevsw).
 - **nethogs**: Instalado para que `open_terminal.sh` pueda ejecutar la supervisión detallada del tráfico de aplicaciones en la red.
 
 ## Configuración y Uso
 
 ### Paso 1: Instalar CommandRunner
-Descarga e instala el applet **CommandRunner** desde el repositorio de tu entorno de escritorio o tienda de aplicaciones.
+Descarga e instala el applet **CommandRunner** desde el [repositorio de GitHub](https://github.com/linuxmint/cinnamon-spices-applets/tree/master/CommandRunner%40appdevsw) o la tienda de aplicaciones de tu entorno de escritorio.
 
 ### Paso 2: Configuración de los Scripts
 
